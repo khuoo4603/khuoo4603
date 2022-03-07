@@ -138,7 +138,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=khuoo4603&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />                        
 
 
   
@@ -214,10 +214,6 @@
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
-</p>
    
   
   
