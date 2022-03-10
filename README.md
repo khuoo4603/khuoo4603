@@ -1,22 +1,30 @@
-## I'm Rahul Dhanola.
-
-### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
-
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-  </div>
+  <img width="100%" src="https://user-images.githubusercontent.com/97348506/157699870-5bc3b945-c20d-4210-af52-57c5c8c407f0.jpg" />
+
 </div>
 
-### more
+## 👋 김현우의 깃허브 프로필입니다!
 
-- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a>
-- 🌱 Aprendendo SGBD-MySQL
-- 💬 Me pergunte sobre [Coloque aqui o que você gostaria de conversar]
-- 😄 Pronomes: [seus pronomes aqui]
-- ⚡ Fun fact: [alguma curiosidade sua]
+### 프로그래밍의 꿈을 꾸고있는 고등학교 3학년 학생입니다!
+
+<br>
+
+### ✅ 나에 대해서
+
+- 🎓 &nbsp; 경기경영고등학교 스마트콘텐츠과에 재학중입니다.
+- 🤔 &nbsp; 고등학교 1학년 부터 프로그래밍을 시작하여 2학년때 부터 본격적으로 프로그래밍을 시작했습니다.
+
+<div align="center" >
+  <img height="220px" align="right" src="https://user-images.githubusercontent.com/97348506/157702396-bb1944d0-120b-4320-b3b4-ae247839648c.png" />
+</div>
+
+
+### 💛 더 알아보기
+
+- 🔭 &nbsp; 여러 개인 프로젝트와 팀 프로젝트를 진행하고 있습니다. 
+- 🌱 &nbsp; Java와 언리얼을 배우고 있습니다. 
+- 🤔 &nbsp; 아직 초보입니다. 여러 의견을 주세요. 
+- 📫 &nbsp; 이메일 주소: khuoo4603@gmail.com 
 
 
 
