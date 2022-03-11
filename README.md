@@ -15,7 +15,7 @@
 - 🤔 &nbsp; 고등학교 1학년 부터 프로그래밍을 시작하여 2학년때 부터 본격적으로 프로그래밍을 시작했습니다.
 
 <div align="center" >
-  <img height="220px" align="right" src="https://user-images.githubusercontent.com/97348506/157702396-bb1944d0-120b-4320-b3b4-ae247839648c.png" />
+  <img height="180px" align="right" src="https://user-images.githubusercontent.com/97348506/157702396-bb1944d0-120b-4320-b3b4-ae247839648c.png" />
 </div>
 
 
@@ -26,12 +26,10 @@
 - 🤔 &nbsp; 아직 초보입니다. 여러 의견을 주세요. 
 - 📫 &nbsp; 이메일 주소: khuoo4603@gmail.com 
 
+<hr>
 
 
-
-
-
-### 💻 Stack I Work With
+### 💻 작업할 때 주로 사용하는 것
 
 <br>
 
@@ -90,7 +88,7 @@
 
 
 
-### Ferramentas e tecnologias que utilizo:
+### 💻 내가 학습했던 언어
 
 <div align="center">
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -180,7 +178,7 @@
 
 
   <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
+  <h3><b>😄 나에 대해 알아보기 </b></h3>
   </div>
 
 <div align="center">
