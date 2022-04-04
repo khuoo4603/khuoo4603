@@ -64,7 +64,7 @@
 <br>
 
 
-### 💻 Workspace Spec
+### 💻 Workspace
 
 <br>
 <p align="center">
